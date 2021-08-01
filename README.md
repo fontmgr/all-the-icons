@@ -5,7 +5,7 @@ all-the-icons fonts
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/fontmgr/all-the-icons/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/fontmgr/all-the-icons/raw/main/install.sh)"
 ```
   
 Manual install:
